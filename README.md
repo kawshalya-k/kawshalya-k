@@ -2,8 +2,7 @@
 
 ## About Me
 
-I’m a passionate learner at the intersection of technology and finance, currently pursuing a BSc (Hons) in Information Systems and an external degree in Financial Engineering.
-My interests lie in cybersecurity, FinTech, and automotive technologies, with a focus on applying innovative solutions such as machine learning and IoT to build secure and impactful systems.
+I’m a passionate learner at the intersection of <b>technology and finance</b>. My interests lie in <b>cybersecurity, FinTech, and automotive technologies</b>, with a focus on developing innovative solutions to build secure and impactful systems.
 
 I am actively building skills in:
 - Programming 
@@ -12,6 +11,10 @@ I am actively building skills in:
 - Emerging Technologies
 
 I believe in continuous learning and enjoy working on projects that connect finance, technology, and security.
+
+Currently, I'm pursuing,
+- BSc (Hons) in Information Systems 
+- BSc (External) in Financial Engineering
 
 <!--
 **kawshalya-k/kawshalya-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
