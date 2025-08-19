@@ -4,17 +4,23 @@
 
 I’m a passionate learner at the intersection of <b>technology and finance</b>. My interests lie in <b>cybersecurity, FinTech, and automotive technologies</b>, with a focus on developing innovative solutions to build secure and impactful systems.
 
-I am actively building skills in:
+⚙️ I am actively building skills in:
 - Programming 
 - Web & Cloud 
 - Cybersecurity 
-- Emerging Technologies
 
-I believe in continuous learning and enjoy working on projects that connect finance, technology, and security.
+I believe in continuous learning and enjoy working on projects that connect finance, technology, and security. 🌱
 
-Currently, I'm pursuing,
+🎓 Currently, I'm pursuing,
 - BSc (Hons) in Information Systems 
 - BSc (External) in Financial Engineering
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawshalya-k)](https://github.com/anuraghazra/github-readme-stats)
+
+## Connect with Me:
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/kpk-kawshalya)
+
 
 <!--
 **kawshalya-k/kawshalya-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
