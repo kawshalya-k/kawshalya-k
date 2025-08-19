@@ -15,7 +15,19 @@ I believe in continuous learning and enjoy working on projects that connect fina
 - BSc (Hons) in Information Systems 
 - BSc (External) in Financial Engineering
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawshalya-k)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats 📈
+
+<table align = "center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kawshalya-k&show_icons=true&theme=radical" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawshalya-k&layout=compact&theme=radical" height="200"/>
+    </td>
+  </tr>
+</table>
+
 
 ## Connect with Me:
 
