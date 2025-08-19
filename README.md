@@ -2,18 +2,18 @@
 
 ## About Me
 
-I’m a passionate learner at the intersection of <b>technology and finance</b>. My interests lie in <b>cybersecurity, FinTech, and automotive technologies</b>, with a focus on developing innovative solutions to build secure and impactful systems.
+I’m a passionate learner at the intersection of <b>technology and finance</b>. My interests lie in <b>cybersecurity and FinTech</b>, with a focus on developing innovative solutions to build secure and impactful systems.
 
 ⚙️ I am actively building skills in:
 - Programming 
 - Web & Cloud 
 - Cybersecurity 
 
-I believe in continuous learning and enjoy working on projects that connect finance, technology, and security. 🌱
-
 🎓 Currently, I'm pursuing,
 - BSc (Hons) in Information Systems 
 - BSc (External) in Financial Engineering
+
+I believe in continuous learning and enjoy working on projects that connect finance, technology, and security. 🌱
 
 ## GitHub Stats 📈
 
