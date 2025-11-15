@@ -23,7 +23,7 @@ I believe in continuous learning and enjoy working on projects that connect fina
       <img src="https://github-readme-stats.vercel.app/api?username=kawshalya-k&show_icons=true&theme=radical" height="200"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawshalya-k&layout=compact&theme=radical" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawshalya-k&cache_seconds=1800&layout=compact&theme=radical" height="200"/>
     </td>
   </tr>
 </table>
